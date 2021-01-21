@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mark/CLionProjects/University/First Course/Module 2/Laba 6_3/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+fstream
+-
+stdio.h
+-
+
